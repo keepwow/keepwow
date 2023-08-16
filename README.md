@@ -11,10 +11,7 @@ I am a Linux user with more than 10 years experience.
 
 ### 🧰 Languages and Tools
 
-<!-- GNU -->
-<a href="https://gnu.org/home.html" target="_blank"> <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="GNU" width="40" height="40"/></a>
-<!-- Linux -->
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<!-- GNU --> <a href="https://gnu.org/home.html" target="_blank"> <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="GNU" width="40" height="40"/></a> <!-- Linux --> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 <a href="https://www.debian.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
 
